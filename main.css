@@ -1,0 +1,16 @@
+body {
+	background: url(http://wallpapers4psp.com/wp-content/uploads/2014/03/sky-wallpaperanime-night-sky-wallpaper-tera-wallpaper-fppwn414.jpg) no-repeat #000000 center fixed;
+    background-size: cover;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 50px;
+  background-color: blue;
+  width: 100%;
+}
+body {
+  margin-bottom: 80px;
+}
